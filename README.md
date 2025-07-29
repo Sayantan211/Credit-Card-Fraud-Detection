@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-![Uploading a-dramatic-product-shot-advertisement-fo_8juyJmmBRTeboH6ZKcj2Wg_s_KFRAbsTZiGiCqmCP2amw.jpeg…]()
+![a-dramatic-product-shot-advertisement-fo_8juyJmmBRTeboH6ZKcj2Wg_s_KFRAbsTZiGiCqmCP2amw](https://github.com/user-attachments/assets/c8a88d91-a9d2-4045-9478-8105cafa0ce4)
 
 This project aims to detect fraudulent credit card transactions from a **real-world, highly imbalanced dataset**. What sets this project apart is the implementation of **Logistic Regression from scratch using NumPy**, along with proper handling of class imbalance using **SMOTE**.
 
